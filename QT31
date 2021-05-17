@@ -1,0 +1,15 @@
+1.	Bài toán mà bài báo giải quyết là gì? Minh hoạ input/output (tìm hình ảnh có trong bài báo để minh hoạ)
+Đầu vào video dài, đầu ra ngắn và giữ lại các phần quan trọng.
+Mỗi cảnh quay có một số khung hình cố định.
+Các kỹ thuật hiện tại không khai thác cấu trúc này và không thực hiện đúng cách.
+input/output 
+hinh
+2. Các câu hỏi đặt ra là gì? Đã giải quyết được đến đâu?
+Làm thế nào để xác định được biên của bức ảnh?
+Làm thế nào để các ảnh được phát hiện và được chọn một cách chính xác?
+3. Ý tưởng giải quyết là gì? Minh hoạ trực quan (diễn giải bằng lời hoặc hình ảnh)
+Sử dụng sliding bidirectional LSTM trong lớp thứ nhất để phát hiện ranh giới các cảnh quay.
+Sử dụng bidirectional LSTM trong lớp thứ 2 để xác định xác suất ảnh đó (được phát hiện ở lớp thứ nhất).
+Khai thác tính năng: shallow shallow (color histogram, SIFT and optical flow) or deep features (fc7 layer of VGGnet-16)
+
+Hinh
