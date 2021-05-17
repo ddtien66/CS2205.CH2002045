@@ -3,7 +3,8 @@
 Mỗi cảnh quay có một số khung hình cố định.
 Các kỹ thuật hiện tại không khai thác cấu trúc này và không thực hiện đúng cách.
 input/output 
-hinh
+
+
 2. Các câu hỏi đặt ra là gì? Đã giải quyết được đến đâu?
 Làm thế nào để xác định được biên của bức ảnh?
 Làm thế nào để các ảnh được phát hiện và được chọn một cách chính xác?
