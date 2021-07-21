@@ -7,4 +7,4 @@ Khó khăn hiện tại: chưa có phương pháp tiếp cận/ ng cứu để t
 ---- Nhóm gồm các thành viên ----------
 Dương Dũng Tiến - CH2002045
 Tạ Nguyễn Thanh Nhân - CH2002012
-Phan Ri Nép - CH2002010
+PHạm Ri Nép - CH2002010
